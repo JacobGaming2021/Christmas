@@ -11,3 +11,6 @@ It will be faster than keep changing the usage and example in each commands!
 
 If you need more help, please add me as a friend in discord with this tag: JacobGaming2021#3318
 I will reply you as soon as possible!
+
+
+NOTE: Make sure to secrets section and make a secret called "TOKEN" and put your token in the vaule option.
